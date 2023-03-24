@@ -1,3 +1,7 @@
+//wybór elementów
+//określenie wymogów w formie arrays
+//stworzenie funkcji
+//sprawdzanie każdego warunku 
 const pass = document.querySelector("#password");
 const p = document.querySelector(".passinfo");
 
